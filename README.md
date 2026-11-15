@@ -4,8 +4,8 @@
 
 Estou no último período de Análise e Desenvolvimento de Sistemas (UEMA) e no 6º período de Nutrição (UniFacema).
 
-<a href="https://www.linkedin.com/in/kallyziane-ewelyn-brito-sales-12a68444b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/kallyziane-sales">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 ---
